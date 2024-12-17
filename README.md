@@ -1,4 +1,4 @@
-# github-3.1-Dijay-Kumar
+# github-3.1-Khai
 6m-cloud-3.1-introduction-to-git-i /assignment.md
 
 ## Git Commands
