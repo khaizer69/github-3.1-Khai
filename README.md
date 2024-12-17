@@ -20,3 +20,4 @@
 | git commit -m "[commit message]" | Commit changes |
 | git rm -r [file-name.txt] | Remove a file (or folder) |
 | git remote -v | View the remote repository of the currently working file or directory |
+| git
